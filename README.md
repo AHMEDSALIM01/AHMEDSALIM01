@@ -11,7 +11,7 @@
     <a href="https://github.com/AHMEDSALIM01"><img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github"></a>
     <a href="https://www.linkedin.com/in/ahmed-salim-64988a158/"><img src="https://img.shields.io/badge/-linkedin-darkblue?style=for-the-badge&logo=linkedin"></a>
     <a href="https://www.instagram.com/saliiimahmed/"><img src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="tel:+212689734670"><img src="https://img.shields.io/badge/+212603768705-black?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="tel:+212689734670"><img src="https://img.shields.io/badge/+212689734670-black?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="mailto:salim.ahm01@gmail.com"><img src="https://img.shields.io/badge/salim.ahm01@gmail.com-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <hr>
