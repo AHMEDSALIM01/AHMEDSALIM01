@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/ahmed-salim-64988a158/"><img src="https://img.shields.io/badge/-linkedin-darkblue?style=for-the-badge&logo=linkedin"></a>
     <a href="https://www.instagram.com/saliiimahmed/"><img src="https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="tel:+212689734670"><img src="https://img.shields.io/badge/+212603768705-black?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-    <a href="mailto:salim.ahm01@gmail.com"><img src="https://img.shields.io/badge/abdelazizbardich@gmail.com-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="mailto:salim.ahm01@gmail.com"><img src="https://img.shields.io/badge/salim.ahm01@gmail.com-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 <hr>
 
@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/php-1572B6?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" />
